@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "outDir": "../expressExam/router/"
+    },
+    "extends": "../base",
+    "files": ["main.ts"]
+}
